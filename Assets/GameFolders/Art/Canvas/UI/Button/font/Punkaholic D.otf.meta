@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ac4d52da93b6efc40897292648c06705
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Punkaholic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 13fedf7a1cb94f84db79318003dce2cd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
